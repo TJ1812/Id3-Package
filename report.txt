@@ -1,0 +1,60 @@
+Data Sets - 1
+
+	Tree Type 			 L       K      Accuracy
+1) Information Gain without Pruning 	 -       -      75.149
+2) Information Gain with Pruning 	 10      5      75.7
+3) Information Gain with Pruning 	 10      10     75.75
+4) Information Gain with Pruning 	 10      15     75.64
+5) Information Gain with Pruning 	 15      15     75.5
+6) Information Gain with Pruning 	 20      20     75.64
+7) Information Gain with Pruning 	 20      5      75.14
+8) Information Gain with Pruning 	 30      15     75.2
+9) Information Gain with Pruning 	 30      5      74.9
+10)Information Gain with Pruning 	 40      5      76.649
+11)Information Gain with Pruning 	 100     5      75.7
+12)Information Gain with Pruning 	 1000    10     76
+
+1) Variance Gain without Pruning 	 -       -      76.1
+2) Variance Gain with Pruning 	         10      5      75.3
+3) Variance Gain with Pruning 	         10      10     76
+4) Variance Gain with Pruning 	         10      15     75.8
+5) Variance Gain with Pruning 	         15      15     76.1
+6) Variance Gain with Pruning 	         20      20     76.95
+7) Variance Gain with Pruning 	         20      5      76
+8) Variance Gain with Pruning 	         30      15     76.64
+9) Variance Gain with Pruning 	         30      5      76.25
+10)Variance Gain with Pruning 	         40      5      76.75
+11)Variance Gain with Pruning 	         100     5      76.5
+12)Variance Gain with Pruning 	         1000    10     76.85                   
+
+
+
+
+
+Data Sets - 2
+
+	Tree Type 			 L       K      Accuracy
+1) Information Gain without Pruning 	 -       -      74.5
+2) Information Gain with Pruning 	 10      5      74.66
+3) Information Gain with Pruning 	 10      10     76
+4) Information Gain with Pruning 	 10      15     74.83
+5) Information Gain with Pruning 	 15      15     75.66
+6) Information Gain with Pruning 	 20      20     74.83
+7) Information Gain with Pruning 	 20      5      74.66
+8) Information Gain with Pruning 	 30      15     74.33
+9) Information Gain with Pruning 	 30      5      74.66
+10)Information Gain with Pruning 	 40      5      73.66
+11)Information Gain with Pruning 	 100     10     76.66
+
+
+1) Variance Gain without Pruning 	 -       -      74.16
+2) Variance Gain with Pruning 	         10      5      75.33
+3) Variance Gain with Pruning 	         10      10     73.5
+4) Variance Gain with Pruning 	         10      15     74.16
+5) Variance Gain with Pruning 	         15      15     75.16
+6) Variance Gain with Pruning 	         20      20     76.33
+7) Variance Gain with Pruning 	         20      5      74.33
+8) Variance Gain with Pruning 	         30      15     74.83
+9) Variance Gain with Pruning 	         30      5      73.83
+10)Variance Gain with Pruning 	         40      10     74.5
+11)Variance Gain with Pruning 	         100     20     74.83
